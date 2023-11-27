@@ -21,7 +21,7 @@
 ## Кто нужен
 
 - Project-менеджер
-- Backend-разработчик (Node.js + Express + умение создавать Telegram-ботов)
+- Backend-разработчик (Рассматриваю Python или Node.js, также немаловажно умение создавать Telegram-ботов)
 - Дизайнер
 - Тестировщик
 - Системный аналитик (для формулирования требований)
@@ -35,7 +35,7 @@
 Проект Open Source.
 ## Используемые технологии
 
-- Backend: Node.js, Express, *возможно* TypeScript, MySQL
+- Backend
 - Frontend: Vue 3, TypeScript, Nuxt.js, Vue Router, Pinia, Vant UI
 - Прочее: REST API, Github
 
