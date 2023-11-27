@@ -44,4 +44,4 @@
 [Figma](https://www.figma.com/file/kdguN7Tu4tYbqguPZC7mPt/Reward-System?type=design&node-id=0%3A1&mode=design&t=ssVo2Ieg8DPv6fdL-1)
 ## Возможности проекта
 
-Описаны [[Возможности проекта|здесь]].
+Описаны [здесь](docs/Возможности%20проекта.md)
